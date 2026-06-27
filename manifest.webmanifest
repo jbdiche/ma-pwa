@@ -1,1 +1,6 @@
-{"name":"Vectro Industrial Dashboard","short_name":"Vectro","description":"Industrial dashboard for field engineers","start_url":"/","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","lang":"en","scope":"/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Vectro Industrial Dashboard","short_name":"Vectro","description":"Industrial dashboard for field engineers","start_url":"/ma-pwa/",
+"display":"standalone",
+"background_color":"#0f172a",
+"theme_color":"#0f172a",
+"lang":"en",
+"scope":"/ma-pwa/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
